@@ -1,24 +1,63 @@
-h3{
-background-color: blue;
+
+p1{
+  position: absolute;
+  left: 1250px;
+  /*top: 20px;*/
 }
-h2{
-background-color: blue;
+p2{
+  position: absolute;
+  left: 1400px;
+  /*top: -10px;*/
+  font-size: 100%;
 }
-div {
-  background-color: blue;
+p3{
+  position: absolute;
+  left: 1550px;
+  /*top: -10px;*/
+  font-size: 100%;
 }
-/*bottem{*/
-/* margin-top: 100px;*/
-/*  margin-bottom: 10px;*/
-/*  margin-right: 150px;*/
-/*  margin-left: 80px;*/
-/*  background-color: white;*/
-/*}*/
-background1 {
-  height: 200px;
-  width: 50%;
-  background-color: blue;
+p4{
+  position: absolute;
+  left: 1250px;
+  /*top: -10px;*/
+  font-size: 100%;
 }
+bl{
+  background-color: #2d3f50;
+ padding: 30px 1750px 25px 15px;
+ border-radius: 2%;
+ position: absolute;
+ /*top: 10px;*/
+}
+e1{
+  position: absolute;
+  left: 400px;
+  top: 30px;
+}
+center {
+   /*position: absolute;*/
+    /*margin: auto;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*width: 100px;*/
+    /*height: 100px;*/
+    background-color: #003366;
+    border-radius: 10%;
+    /*box-shadow: 35px 1750px 30px 20px ;*/
+    
+  }
 size1{
   font-size: 150%;
+}
+pb{
+  position: absolute;
+  left: 600px;
+  top: 800px;
+}
+mr{
+   position: absolute;
+  left: 750px;
+  top: 300px;
 }
