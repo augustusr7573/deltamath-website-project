@@ -31,8 +31,13 @@ bl{
 }
 e1{
   position: absolute;
-  left: 400px;
-  top: 30px;
+  left: 500px;
+  top: 450px;
+}
+e2{
+  position: absolute;
+  left: 500px;
+  top: 500px;
 }
 center {
    /*position: absolute;*/
@@ -50,14 +55,20 @@ center {
   }
 size1{
   font-size: 150%;
+  /*font color: white;*/
 }
 pb{
   position: absolute;
   left: 600px;
-  top: 800px;
+  top: 100;
 }
-mr{
-   position: absolute;
-  left: 750px;
-  top: 300px;
+imgm{
+ position: fixed;
+  bottom: 57%;
+  left: 12%;
+border-style: solid;
+border-color: black;
+}
+a:hover {
+  color: lightblue;
 }
