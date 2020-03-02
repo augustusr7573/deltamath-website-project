@@ -1,66 +1,58 @@
 
 p1{
   position: absolute;
-  left: 1250px;
-  /*top: 20px;*/
+  left: 1190px;
+  font-size: 130%;
 }
 p2{
   position: absolute;
-  left: 1400px;
-  /*top: -10px;*/
-  font-size: 100%;
+  left: 1340px;
+  font-size: 130%;
 }
 p3{
   position: absolute;
-  left: 1550px;
-  /*top: -10px;*/
-  font-size: 100%;
+  left: 1490px;
+  font-size: 130%;
 }
-p4{
-  position: absolute;
-  left: 1250px;
-  /*top: -10px;*/
-  font-size: 100%;
-}
+
 bl{
   background-color: #2d3f50;
- padding: 30px 1750px 25px 15px;
+ padding: 30px 1550px 25px 15px;
  border-radius: 2%;
  position: absolute;
- /*top: 10px;*/
 }
 e1{
+   background-color: #f7faf9;
+ padding: 10px 410px 100px 20px;
+ border-radius: 2%;
   position: absolute;
-  left: 500px;
-  top: 450px;
+   bottom:64%;
+  left:55%;
+
 }
 e2{
   position: absolute;
-  left: 500px;
-  top: 500px;
+  bottom:70%;
+  left:56.2%;
 }
-center {
-   /*position: absolute;*/
-    /*margin: auto;*/
-    /*top: 0;*/
-    /*right: 0;*/
-    /*bottom: 0;*/
-    /*left: 0;*/
-    /*width: 100px;*/
-    /*height: 100px;*/
-    background-color: #003366;
-    border-radius: 10%;
-    /*box-shadow: 35px 1750px 30px 20px ;*/
-    
-  }
+
 size1{
-  font-size: 150%;
-  /*font color: white;*/
+  font-size: 170%;
 }
 pb{
   position: absolute;
+  left: 700px;
+  bottom: 45px;
+}
+pb2{
+  position: absolute;
+  left: 820px;
+  bottom: 45px;
+}
+pb3{
+  position: absolute;
   left: 600px;
-  top: 100;
+  bottom: 30px;
 }
 imgm{
  position: fixed;
@@ -70,5 +62,23 @@ border-style: solid;
 border-color: black;
 }
 a:hover {
-  color: lightblue;
+  color: #18a183;
 }
+psi{
+  bottom:80%;
+  left:55%;
+  font-size:140%;
+ background-color: #e3e6e5;
+ padding: 10px 450px 10px 15px;
+ border-radius: 2%;
+ position: absolute;
+}
+logn{
+    bottom:60%;
+  left:55%; 
+  background-color:#2d3f50;
+   padding: 20px 250px 15px 300px;
+    border-radius: 4%;
+   position:absolute;
+}
+
